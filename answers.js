@@ -45,13 +45,21 @@ const class = [
 
 // Take it Easy
 // 1.Make an array that holds all of the colors of the rainbow.
+const rainbow = ["red", "orange", "yellow", "green", "blue", "purple"];
 
 // 2.Write code that will access "blue" from the rainbow array.
+rainbow[4];
 
 // 3.Make an object that is called your name and holds the information about your favorite food, a hobby, the name of the town that you live in currently, and your favorite datatype.
+const Tess = {
+    favoriteFood: "pastor",
+    hobby: "roller skating",
+    currentTown: "Austin",
+    favoriteDatatype: "objects"
+};
 
 // 4.Write code that will access your hobby from the object that you just created.
-
+Tess.hobby;
 
 //Crazy Object
 const crazyObject = {
