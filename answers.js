@@ -90,15 +90,19 @@ const crazyObject = {
 //Use crazy Object to log the following.
 
 // 1."omg my mouth is burning"
+crazyObject.taco[1].salsa[5]
 
 // 2."Pretty pretty prettayyyyy good"
+crazyObject.larry.quotes[0]
 
 // 3."Swearing at Larry and Jeff"
+crazyObject.larry.characters[2].favourtieHobby
 
 // 4."Chicken Teriyaki Boyyyyyy"
+crazyObject.larry.nicknames[1]
 
 // 5.The object the contains the name funkhauser
-
+crazyObject.larry.characters
 
 // Object-ception
 const inception = {
