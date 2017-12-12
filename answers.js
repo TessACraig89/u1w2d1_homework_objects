@@ -123,7 +123,7 @@ const inception = {
    }
 }
 //Change the value of limbo to null.
-
+inception.reality.dreamLayer1.dreamLayer2.dreamLayer3.dreamLayer4.dreamLayer5.dreamLayer6 = null;
 
 // Bond Films
 // Array of Objects:
